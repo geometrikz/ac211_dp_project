@@ -1,2 +1,3 @@
-# ac211_dp_project
-Final project repository for AC211
+# Harvard AC211 Final Project Code
+
+Final project repository for AC211.
